@@ -1,0 +1,11 @@
+domain,tracking_ids,registered_at,registrar
+alnakheel-now.example,G-DEMO4X1Z7Q|ca-pub-0000000000000001,2025-10-20,Demo Registrar
+sahel-truth.example,G-DEMO4X1Z7Q|ca-pub-0000000000000001,2025-10-21,Demo Registrar
+city-leaks.example,G-DEMO4X1Z7Q|ca-pub-0000000000000001,2025-10-22,Demo Registrar
+hidden-mirror.example,G-DEMO4X1Z7Q,2025-10-25,Demo Registrar
+youth-voice.example,G-DEMOB2222,2026-01-08,Other Registrar
+recipes.example,G-ORG00000,2010-05-01,Various
+football-club.example,G-ORG00001,2011-05-01,Various
+weather-local.example,G-ORG00002,2012-05-01,Various
+uni-news.example,G-ORG00003,2013-05-01,Various
+books-club.example,G-ORG00004,2014-05-01,Various
